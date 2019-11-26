@@ -1,9 +1,8 @@
 ---
-title: Netfra
+title: Netfra Limited
 subtitle: Network and Infrastructure consulting
 layout: layouts/base.njk
 ---
-
 
 ## What we do
 
