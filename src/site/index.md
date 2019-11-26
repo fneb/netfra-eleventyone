@@ -1,5 +1,5 @@
 ---
-title: Netfra Consulting
+title: Netfra
 subtitle: Network and Infrastructure consulting
 layout: layouts/base.njk
 ---
