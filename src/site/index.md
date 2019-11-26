@@ -1,12 +1,14 @@
 ---
 title: Netfra
-subtitle: Network and Infrastructure consulting
+subtitle: Network and Infrastructure Professional Services
 layout: layouts/base.njk
 ---
 
 ## What we do
 
-- Consulting on corporate network and infrastructure systems and structure
-- Project management consulting, including all roles within the Agile lifecycle
-- Enterprise Architecture development
-- Project planning and outlining
+- Technical consulting for corporate IT systems
+- Business IT strategy consulting
+- Enterprise Architecture review and planning
+- Programme, Project, Product management, with a focus on Agile methodologies
+- Developing and delivering training
+
