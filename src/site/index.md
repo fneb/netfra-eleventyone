@@ -8,3 +8,5 @@ layout: layouts/base.njk
 
 - Consulting on corporate network and infrastructure systems and structure
 - Project management consulting, including all roles within the Agile lifecycle
+- Enterprise Architecture development
+- Project planning and outlining
