@@ -9,6 +9,6 @@ layout: layouts/base.njk
 - Technical consulting for corporate IT systems
 - Business IT strategy consulting
 - Enterprise Architecture review and planning
-- Programme, Project, Product management, with a focus on Agile methodologies
+- Programme, Project, Product management and planning, with a focus on Agile methodologies
 - Developing and delivering training
 
